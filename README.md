@@ -337,6 +337,12 @@ We are introducing a state store to be the single place to manage the state of t
 
 So now we will start creating our store.
 
+*Install the Vuex module* 
+
+```
+yarn add vuex
+```
+
 First, we will need some colors for later.
 
 Create a directory under `./src` named `store` and add a new file `colors.js`.
