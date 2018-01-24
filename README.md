@@ -564,7 +564,7 @@ Edit the `src/components/GameBoard.vue` to use the store.
 <script>
 /* eslint-disable no-plusplus */
 /* eslint-disable no-param-reassign */
-import GameTile from './GameTile3';
+import GameTile from './GameTile';
 
 /*
   Fisher-Yates shuffle.
